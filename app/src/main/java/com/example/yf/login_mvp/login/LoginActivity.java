@@ -1,4 +1,4 @@
-package com.example.yf.login_mvp;
+package com.example.yf.login_mvp.login;
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -8,9 +8,10 @@ import android.widget.EditText;
 import android.widget.ProgressBar;
 import android.widget.Toast;
 
-import com.example.yf.login_mvp.presenter.ILoginPresenter;
-import com.example.yf.login_mvp.presenter.LoginPresenterCompl;
-import com.example.yf.login_mvp.view.ILoginView;
+import com.example.yf.login_mvp.R;
+import com.example.yf.login_mvp.login.presenter.ILoginPresenter;
+import com.example.yf.login_mvp.login.presenter.LoginPresenterCompl;
+import com.example.yf.login_mvp.login.view.ILoginView;
 
 public class LoginActivity extends Activity implements ILoginView , View.OnClickListener{
 

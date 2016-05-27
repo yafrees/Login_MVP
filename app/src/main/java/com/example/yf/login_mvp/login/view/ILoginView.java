@@ -1,4 +1,4 @@
-package com.example.yf.login_mvp.view;
+package com.example.yf.login_mvp.login.view;
 
 /**
  * Created by YF on 2016/5/27.

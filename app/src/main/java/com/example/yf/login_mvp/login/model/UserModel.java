@@ -1,4 +1,4 @@
-package com.example.yf.login_mvp.model;
+package com.example.yf.login_mvp.login.model;
 
 /**
  * Created by YF on 2016/5/27.

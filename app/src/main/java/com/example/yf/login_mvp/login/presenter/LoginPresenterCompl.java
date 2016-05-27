@@ -1,10 +1,10 @@
-package com.example.yf.login_mvp.presenter;
+package com.example.yf.login_mvp.login.presenter;
 
 import android.os.Looper;
 import android.os.Handler;
-import com.example.yf.login_mvp.model.IUser;
-import com.example.yf.login_mvp.model.UserModel;
-import com.example.yf.login_mvp.view.ILoginView;
+import com.example.yf.login_mvp.login.model.IUser;
+import com.example.yf.login_mvp.login.model.UserModel;
+import com.example.yf.login_mvp.login.view.ILoginView;
 
 /**
  * Created by YF on 2016/5/27.

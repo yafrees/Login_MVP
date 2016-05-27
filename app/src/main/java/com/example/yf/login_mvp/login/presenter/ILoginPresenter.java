@@ -1,4 +1,4 @@
-package com.example.yf.login_mvp.presenter;
+package com.example.yf.login_mvp.login.presenter;
 
 /**
  * Created by YF on 2016/5/27.
